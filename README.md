@@ -9,6 +9,7 @@ The solution is reconstructed as:
 
 - f(z) = 1 + G f¹(z)
 - K = 1 + G K¹
+  
 where G is the bond number.
 
 The network learns the first-order correction f¹(z) and the reference
