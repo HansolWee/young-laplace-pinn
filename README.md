@@ -35,6 +35,12 @@ For L = 1 and G = 0.1:
 | K¹       | 0.500000459271 | 0.5        |
 | 1 + G K¹ | 1.050000045927 | 1.05       |
 
+## Solution comparison
+
+PINN and analytical solutions for L = 1 and G = 0.1.
+
+![PINN and analytical solution comparison](solution_comparison.png)
+
 ## Run
 
 Install dependencies:
